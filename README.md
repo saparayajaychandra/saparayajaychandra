@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saparayajaychandra&label=Profile%20views&color=0e75b6&style=flat" alt="saparayajaychandra" /> </p>
 
-- 🔭 I’m currently working on **Heart_Disease_Diagnostic_Analysis**
+- 🔭 I’m currently working on **Deep Learining Project**
 
-- 🌱 I’m currently learning **Deep Learining**
+- 🌱 I’m currently learning **Deep Learining And AI**
 
 - 📫 How to reach me **saparayajaychandra@gmail.com**
 
